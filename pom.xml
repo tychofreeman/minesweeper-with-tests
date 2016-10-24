@@ -25,6 +25,7 @@
       <groupId>com.github.nikolavp</groupId>
       <artifactId>approval-core</artifactId>
       <version>0.3</version>
+      <scope>test</scope>
     </dependency>
   </dependencies>
   <build>
