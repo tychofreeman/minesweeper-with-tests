@@ -5,6 +5,8 @@
    general public license.  Use at your own risk!  The GNU general public
    license is available at http://www.gnu.org/copyleft/gpl.html */
 
+// Modified by Christopher Freeman in October 2016. Changed package name and some visibility attributes.
+
 package com.cwfreeman.refactoring;
 
 import java.applet.*;
